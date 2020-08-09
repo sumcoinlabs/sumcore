@@ -1,7 +1,7 @@
 Contributing to Litecore
 =======
 
-We're working hard to make *sumcore* the most powerful JavaScript library for working with litecoin. Our goal is to have *sumcore* be a library that can be used by anyone interested in litecoin, and to level expertise differences with great design and documentation.
+We're working hard to make *sumcore* the most powerful JavaScript library for working with sumcoin. Our goal is to have *sumcore* be a library that can be used by anyone interested in sumcoin, and to level expertise differences with great design and documentation.
 
 ## Community
 

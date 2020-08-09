@@ -6,15 +6,15 @@
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your litecoin project.",
+  "description": "A pure, powerful core for your sumcoin project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "litecoin",
+    "sumcoin",
     "sumcore",
-    "ltc",
-    "satoshi"
+    "sum",
+    "sumtoshi"
   ],
   "license": "MIT",
   "ignore": [

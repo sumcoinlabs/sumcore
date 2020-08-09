@@ -36,8 +36,8 @@ transaction.sign(privateKey);
 ## Applications
 
 - [Node](https://github.com/sumcoinlabs/sumcore-node) - A full node with extended capabilities using Sumcoin Core
-- [Insight Lite API](https://github.com/sumcoinlabs/insight-lite-api) - A blockchain explorer HTTP API
-- [Insight Lite UI](https://github.com/sumcoinlabs/insight-lite-ui) - A blockchain explorer web user interface
+- [Insight Sum API](https://github.com/sumcoinlabs/insight-sum-api) - A blockchain explorer HTTP API
+- [Insight Sum UI](https://github.com/sumcoinlabs/insight-sum-ui) - A blockchain explorer web user interface
 - [Wallet Service](https://github.com/bitpay/bitcore-wallet-service) - A multisig HD service for wallets
 - [Wallet Client](https://github.com/bitpay/bitcore-wallet-client) - A client for the wallet service
 - [CLI Wallet](https://github.com/bitpay/bitcore-wallet) - A command-line based wallet client

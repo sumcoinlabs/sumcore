@@ -92,8 +92,8 @@
   "dependencies": {
     "sumcore-lib": "^0.13.22",
     "sumcore-node": "^3.1.11",
-    "insight-lite-api": "^0.4.4",
-    "insight-lite-ui": "^0.4.2"
+    "insight-sum-api": "^0.4.4",
+    "insight-sum-ui": "^0.4.2"
   },
   "license": "MIT",
   "devDependencies": {

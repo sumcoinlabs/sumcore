@@ -84,7 +84,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/sumcore.git"
+    "url": "https://github.com/sumcoinlabs/sumcore.git"
   },
   "browser": {
     "request": "browser-request"

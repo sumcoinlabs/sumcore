@@ -246,8 +246,8 @@ git checkout -b remove/some-file
 
 We expect pull requests to be rebased to the master branch before merging:
 ```sh
-git remote add litecoin-project git@github.com:litecoin-project/sumcore.git
-git pull --rebase litecoin-project master
+git remote add sumcoinlabs git@github.com:sumcoinlabs/sumcore.git
+git pull --rebase sumcoinlabs master
 ```
 
 Note that we require rebasing your branch instead of merging it, for commit readability reasons.
@@ -258,11 +258,11 @@ git push origin your_branch_name
 git push origin feature/some-new-stuff
 git push origin fix/some-bug
 ```
-Finally go to [github.com/litecoin-project/sumcore](https://github.com/litecoin-project/sumcore) in your web browser and issue a new pull request.
+Finally go to [github.com/sumcoinlabs/sumcore](https://github.com/sumcoinlabs/sumcore) in your web browser and issue a new pull request.
 
 Main contributors will review your code and possibly ask for changes before your code is pulled in to the main repository.  We'll check that all tests pass, review the coding style, and check for general code correctness. If everything is OK, we'll merge your pull request and your code will be part of sumcore.
 
 If you have any questions feel free to post them to
-[github.com/litecoin-project/sumcore/issues](https://github.com/litecoin-project/sumcore/issues).
+[github.com/sumcoinlabs/sumcore/issues](https://github.com/sumcoinlabs/sumcore/issues).
 
 Thanks for your time and code!

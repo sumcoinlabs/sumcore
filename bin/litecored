@@ -3,7 +3,7 @@
 'use strict';
 
 var path = require('path');
-var litecored = require('litecore-node/lib/cli/bitcored');
+var sumcored = require('sumcore-node/lib/cli/bitcored');
 var servicesPath = path.resolve(__dirname, '../');
 var additionalServices = ['insight-lite-api', 'insight-lite-ui'];
-litecored(servicesPath, additionalServices);
+sumcored(servicesPath, additionalServices);

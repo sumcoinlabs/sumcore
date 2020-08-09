@@ -1,8 +1,8 @@
 {
-  "name": "litecore",
-  "main": "./litecore.min.js",
+  "name": "sumcore",
+  "main": "./sumcore.min.js",
   "version": "0.13.5",
-  "homepage": "http://litecore.io",
+  "homepage": "http://sumcore.io",
   "authors": [
     "BitPay, Inc."
   ],
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "litecoin",
-    "litecore",
+    "sumcore",
     "ltc",
     "satoshi"
   ],

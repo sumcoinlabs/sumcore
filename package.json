@@ -1,5 +1,5 @@
 {
-  "name": "litecore",
+  "name": "sumcore",
   "version": "4.1.10",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
@@ -9,8 +9,8 @@
     "build-deb": "./scripts/build-deb"
   },
   "bin": {
-    "litecore": "./bin/litecore",
-    "litecored": "./bin/litecored"
+    "sumcore": "./bin/sumcore",
+    "sumcored": "./bin/sumcored"
   },
   "contributors": [
     {
@@ -84,14 +84,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore.git"
+    "url": "https://github.com/litecoin-project/sumcore.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.22",
-    "litecore-node": "^3.1.11",
+    "sumcore-lib": "^0.13.22",
+    "sumcore-node": "^3.1.11",
     "insight-lite-api": "^0.4.4",
     "insight-lite-ui": "^0.4.2"
   },

@@ -1,7 +1,0 @@
-#!/usr/bin/env node
-
-var sumcore = require('sumcore-node/lib/cli/bitcore');
-var path = require('path');
-var servicesPath = path.resolve(__dirname, '../');
-var additionalServices = ['insight-sum-api', 'insight-sum-ui'];
-sumcore(servicesPath, additionalServices);

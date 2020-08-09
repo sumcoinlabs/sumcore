@@ -4,9 +4,9 @@ Litecore
 [![NPM Package](https://img.shields.io/npm/v/sumcore.svg?style=flat-square)](https://www.npmjs.org/package/sumcore)
 [![Build Status](https://img.shields.io/travis/sumcoinlabs/sumcore.svg?branch=master&style=flat-square)](https://travis-ci.org/sumcoinlabs/sumcore)
 
-Infrastructure to build Litecoin and blockchain-based applications for the next generation of financial technology.
+Infrastructure to build Sumcoin and blockchain-based applications for the next generation of financial technology.
 
-**Note:** If you're looking for the Litecore Library please see: https://github.com/sumcoinlabs/sumcore-lib
+**Note:** If you're looking for the Sumcore Library please see: https://github.com/sumcoinlabs/sumcore-lib
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ transaction.sign(privateKey);
 
 ## Applications
 
-- [Node](https://github.com/sumcoinlabs/sumcore-node) - A full node with extended capabilities using Litecoin Core
+- [Node](https://github.com/sumcoinlabs/sumcore-node) - A full node with extended capabilities using Sumcoin Core
 - [Insight Lite API](https://github.com/sumcoinlabs/insight-lite-api) - A blockchain explorer HTTP API
 - [Insight Lite UI](https://github.com/sumcoinlabs/insight-lite-ui) - A blockchain explorer web user interface
 - [Wallet Service](https://github.com/bitpay/bitcore-wallet-service) - A multisig HD service for wallets
@@ -46,12 +46,12 @@ transaction.sign(privateKey);
 
 ## Libraries
 
-- [Lib](https://github.com/sumcoinlabs/sumcore-lib) - All of the core Litecoin primatives including transactions, private key management and others
+- [Lib](https://github.com/sumcoinlabs/sumcore-lib) - All of the core Sumcoin primatives including transactions, private key management and others
 - [Payment Protocol](https://github.com/bitpay/bitcore-payment-protocol) - A protocol for communication between a merchant and customer
 - [P2P](https://github.com/sumcoinlabs/sumcore-p2p) - The peer-to-peer networking protocol
 - [Mnemonic](https://github.com/bitpay/bitcore-mnemonic) - Implements mnemonic code for generating deterministic keys
 - [Channel](https://github.com/bitpay/bitcore-channel) - Micropayment channels for rapidly adjusting bitcoin transactions
-- [Message](https://github.com/sumcoinlabs/sumcore-message) - Litecoin message verification and signing
+- [Message](https://github.com/sumcoinlabs/sumcore-message) - Sumcoin message verification and signing
 - [ECIES](https://github.com/bitpay/bitcore-ecies) - Uses ECIES symmetric key negotiation from public keys to encrypt arbitrarily long data streams.
 
 ## Documentation

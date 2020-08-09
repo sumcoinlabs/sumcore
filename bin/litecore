@@ -3,5 +3,5 @@
 var sumcore = require('sumcore-node/lib/cli/bitcore');
 var path = require('path');
 var servicesPath = path.resolve(__dirname, '../');
-var additionalServices = ['insight-lite-api', 'insight-lite-ui'];
+var additionalServices = ['insight-sum-api', 'insight-sum-ui'];
 sumcore(servicesPath, additionalServices);

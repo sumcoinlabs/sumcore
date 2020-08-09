@@ -1,4 +1,4 @@
-Litecore
+Sumcore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/sumcore.svg?style=flat-square)](https://www.npmjs.org/package/sumcore)
@@ -65,7 +65,7 @@ To get community assistance and ask for help with implementation questions, plea
 
 ## Security
 
-We're using Litecore in production, as are [many others](http://sumcore.io#projects), but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
+We're using Sumcore in production, as are [many others](http://sumcore.io#projects), but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
 If you find a security issue, please email security@bitpay.com.
 
@@ -89,3 +89,4 @@ Code released under [the MIT license](https://github.com/sumcoinlabs/sumcore/blo
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
 Copyright 2016 The Litecore Core Developers
+Copyright 2016 - 2020 The Sumcore Core Developers
